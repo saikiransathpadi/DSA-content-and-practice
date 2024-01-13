@@ -1,0 +1,26 @@
+agenda:
+1.complexity analysis
+2.real life examples
+3.problems
+4.notations
+
+complexity:
+
+marthahalli-dudhsagar waterfalls:
+1.flight
+2.bus
+3.cab
+4.train
+
+pc purchase:
+ram
+processing power
+
+problem-algorithm-input-output:
+
+
+definitions:
+time taken to produce output based on input size- time complexity
+space                                              - space
+
+
