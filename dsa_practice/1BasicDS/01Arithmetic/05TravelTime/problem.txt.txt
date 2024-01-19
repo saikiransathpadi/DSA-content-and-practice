@@ -1,0 +1,29 @@
+
+Travel Time
+
+Bharath is travelling from Hyderabad to Banglore on a car. Assume the distance from Hyderabard to Banglore is 600kms, you will be given the average speed of Bharath's car and you have to calculate the travel time.
+Input
+
+single integer - speed of car in km/hr
+Output
+
+single integer
+
+Note: return only the integer part, incase the time is decimal.
+Example
+
+Input-1:
+
+60
+
+Output-1:
+
+10
+
+Input-2:
+
+80
+
+Output-2:
+
+7
