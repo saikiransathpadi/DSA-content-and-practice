@@ -1,0 +1,27 @@
+
+Find f(n)
+
+For a positive integer n let's define a function f as follows:
+
+f(n) =  - 1 + 2 - 3 + .. + n*(-1)^n
+
+Your task is to calculate f(n) for a given integer n.
+Input
+
+One integer denoting n.
+Output
+
+One integer which is the value of f(n).
+Example
+
+Input
+
+4
+
+Output
+
+2
+
+Explanation
+
+f(4) = -1 +2 -3 +4 = 2
