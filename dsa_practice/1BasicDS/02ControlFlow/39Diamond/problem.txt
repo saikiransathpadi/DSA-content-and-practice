@@ -1,0 +1,35 @@
+
+Diamond
+
+Given n, print the pattern like this: (For example, if n=5)
+
+    * 
+   ***
+  ***** 
+ ******* 
+********* 
+ *******
+  *****
+   ***
+    * 
+
+Input
+
+One Integer, denoting n.
+Output
+
+Print the desired pattern.
+Example
+
+Input1:
+
+3
+
+Output1:
+
+  *
+ ***
+*****
+ ***
+  *
+

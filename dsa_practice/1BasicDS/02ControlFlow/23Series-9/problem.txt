@@ -1,0 +1,24 @@
+
+Series-9
+
+Find the sum of the first n terms of the series 9, 99, 999, 9999...
+Input
+
+One Integer, denoting n.
+Output
+
+One Integer, denoting the resultant sum.
+Example
+
+Input1:
+
+5
+
+Output1:
+
+111105
+
+Explanation1:
+
+9 + 99 + 999 + 9999 + 99999 = 111105
+

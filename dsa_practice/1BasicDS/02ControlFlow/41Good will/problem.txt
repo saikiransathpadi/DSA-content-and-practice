@@ -1,0 +1,32 @@
+
+Good will
+
+A good will triangle of order n is defined as follows:
+
+Lets say n = 5,
+
+    *
+   $*$
+  *$*$*
+ $*$*$*$
+*$*$*$*$*
+
+You have been given a positive integer n, you need to print the good will triangle for the given integer.
+Input Format:
+
+One positive integer denoting n.
+Output Format:
+
+Print the resultant good will triangle of order n.
+Example:
+
+Input:
+
+3
+
+Output:
+
+  *
+ $*$
+*$*$*
+

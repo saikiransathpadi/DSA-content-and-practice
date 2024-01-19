@@ -1,0 +1,28 @@
+
+Identify
+
+You have been given a string s. You need to find the number of non-alphabetical charcters present in the given string.
+Constraints
+
+    s can contain smallcase/capitalcase alphabets, numbers, special characters, and space.
+
+Input
+
+One string denoting s.
+Output
+
+One integer, denoting the result.
+Example
+
+Input1:
+
+aba@ad#$123
+
+Output1:
+
+6
+
+Explanation1:
+
+Non alphabetical characters are: @,#,$,1,2,3
+

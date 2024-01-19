@@ -1,0 +1,33 @@
+
+GCD: Iterative
+Description
+
+Write a program that computes the GCD of two positive integers using Euclid's algorithm. Your implementation should be iterative in nature.
+Given two positive integers a, b (a >= b), Euclid's algorithm is defined as follows.
+
+GCD(a, b) = b, if b is a divisor of a
+          = GCD(b, a%b), otherwise
+
+Input format
+
+First line contains n, the number of test cases.
+Next n lines contain two positive integers each. The two integers are separated by a space.
+Output format
+
+n lines containing one integer each, which is the greatest common divisor of the corresponding pair of integers from input.
+Sample input
+
+2
+180 48
+105 1001
+
+Sample output
+
+12
+7
+
+Explanation
+
+First line contains 2, meaning there are 2 test cases.
+First test case is 180 48. The greatest common divisor of 180 and 48 is 12. So, the first line of output is 12.
+Second test case is 105 1001. The greatest common divisor of 105 and 1001 is 7. So, the second line of output is 7.

@@ -1,0 +1,22 @@
+
+Table
+
+You have been given an integer N. You need to find the multiplicative table of given number.
+
+For example, multiplicative table of 2 is [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+Input
+
+One integer, denoting N.
+Output
+
+Print the result as space seperated integers.
+Example
+
+Input1:
+
+5
+
+Output1:
+
+5 10 15 20 25 30 35 40 45 50
+

@@ -1,0 +1,32 @@
+
+N-Strings
+
+You have been given n string values. Lets say the given values are a1, a2, a3, a4 ...
+
+You need to find the number of odd length strings.
+Note:
+
+    Strings may contain symbols like #, $, @, etc
+    Solve this without using array, and using while loop.
+
+Input Format:
+
+First line denotes n, the number of inputs. The next n lines contains one string in each line.
+Output Format:
+
+One integer denoting the result, as mentioned above.
+Example:
+
+Input:
+
+5
+10
+-20
+abcde
+40@$#@^*
+5sfgsge6543
+
+Output:
+
+3
+

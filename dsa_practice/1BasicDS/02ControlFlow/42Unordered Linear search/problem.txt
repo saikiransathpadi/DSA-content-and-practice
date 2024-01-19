@@ -1,0 +1,37 @@
+
+Unordered Linear Search
+
+Given a number K and List of numbers A return the index of K in List A.
+
+If K is not found return -1
+Input
+
+First line contains K Second line contains n, the number of integers. Next n lines contain n integers, one integer per line.
+Output
+
+Print the index of K in the List A
+Example
+
+Input: 20
+
+9
+
+2
+
+34
+
+43
+
+18
+
+20
+
+78
+
+54
+
+13
+
+10
+
+Output: 4

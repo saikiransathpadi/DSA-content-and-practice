@@ -1,0 +1,33 @@
+
+Strange
+
+You have been given n non-negative integer values. Lets say the given values are a1, a2, a3, a4 ...
+
+A given integer ai is called as strange integer, if the sum of its digits is greater than or equal to product of its digits.
+
+You need to find the number of strange integers in the given input values.
+Input Format:
+
+First line denotes n, the number of inputs. The next n lines contains one integer in each line.
+Output Format:
+
+One integer denoting the result, as mentioned above.
+Example:
+
+Input:
+
+5
+10
+20
+30
+40
+50
+
+Output:
+
+5
+
+Explanation:
+
+For the given 5 integers, sum of the digits >= product of the digits.
+
