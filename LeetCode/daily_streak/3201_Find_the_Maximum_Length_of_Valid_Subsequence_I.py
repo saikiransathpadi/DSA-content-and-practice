@@ -8,13 +8,11 @@ class Solution(object):
         for i in range(len(nums)):
             nums[i] = nums[i] % 2
 
+        count0 = 0
         count1 = 0
         for i in nums:
             if i == 1:
                 count1 += 1
-
-        count0 = 0
-        for i in nums:
             if i == 0:
                 count0 += 1
         
